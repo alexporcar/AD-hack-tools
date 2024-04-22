@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.bin
+shellcode.cpp
+sleep.cpp
+deps
+PEzor
+mimikatz*
+beacon.h

